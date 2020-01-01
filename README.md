@@ -1,6 +1,6 @@
 # Chatting
 Java Eclipse Chatting program
 
-First, operate server.java.
+1:1 Chat program using socket
 
-Next, operate client.java.
+Run Client.java after Server.java
